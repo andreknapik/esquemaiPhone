@@ -1,0 +1,7 @@
+package com.example.modelagemiphone;
+
+public interface NavegadorInternet {
+    void exibirPagina(String url);
+    void adicionarNovaAba();
+    void atualizarPagina();
+}
